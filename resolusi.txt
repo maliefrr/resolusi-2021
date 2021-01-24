@@ -4,6 +4,6 @@ Hal -Hal Yang ingin di lakukan di 2021 :
 - Menguasai bahasa pemrograman Javascript
 - Menguasai bahasa pemrograman PHP
 - Bisa membuat game sendiri
-  * membuat game dengan fiony sebagai tokoh utama
-  * dibuat dengan mebggunakan pygame
+  * Game 2d Platformer dengan fiony sebagai tokoh utama
+  * Game dibuat dengan unity
 
